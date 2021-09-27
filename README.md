@@ -74,7 +74,7 @@ alert(s);
 
 | **Markdown** | **Less** | **Pretty** |
 |:-----------|:-------|:--------|
-|*Still* |<font color=#008000>right-aligned</font>|**nicely**|
+|*Still*| render|**nicely**|
 |1 |2 |3 |
 
 
